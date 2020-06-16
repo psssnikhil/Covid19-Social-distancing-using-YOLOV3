@@ -18,7 +18,7 @@ Steps of approach:
 
 3)calculate the distance between different pairs of centroids.
 
-4)if distance is less than thresold value then it is a violation,else safe.
+4)if distance is less than threshold value then it is a violation,else safe.
 
 Note: The distance taken is the pixel distance and is not calibrated according to the view.
 
